@@ -8,6 +8,14 @@ public class Sample {
 		System.out.println("Enter the integer");
 		int nextInt1 = a.nextInt();
 		System.out.println("The integer value is ");
+		float nextFloat = a.nextFloat();	
+		System.out.println(nextFloat);
+
+
+		
+			
+			double nextDouble = a.nextDouble();
+			System.out.println(nextDouble);
 		System.out.println("Enter the byte value");
 		byte nextByte1 = a.nextByte();
 		System.out.println("The byte value is ");
