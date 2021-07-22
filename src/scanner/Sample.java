@@ -11,6 +11,8 @@ public class Sample {
 		System.out.println("Enter the byte value");
 		byte nextByte1 = a.nextByte();
 		System.out.println("The byte value is ");
+		long nextLong = a.nextLong();
+		System.out.println("enter long");
 		
 	}
 	
